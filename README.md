@@ -1,2 +1,3 @@
 # kush1010
-first repo
+this is myfirst git hub repo
+author -kushagra bhardwaj
