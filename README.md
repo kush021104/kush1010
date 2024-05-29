@@ -1,4 +1,7 @@
 # kush1010
+
 this is myfirst git hub repo
 <br>
-author -kushagra bhardwaj
+author -kushagra bhardwaj(student at sharda)
+
+            
